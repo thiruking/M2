@@ -42,6 +42,7 @@ int main() {
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/881c8786-ceb3-43cd-af6a-774be0a85d67)
 
 
 
@@ -199,6 +200,7 @@ int main() {
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/cd9a998c-d86a-4cd2-8b15-ddb9c5c35042)
 
 
 
